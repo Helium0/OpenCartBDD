@@ -16,6 +16,9 @@ public class LoginPage {
     @FindBy(xpath = "//a[text()='Login']")
     private WebElement login;
 
+    @FindBy(xpath = "//button[text()='Login']")
+    private WebElement loginButton;
+
     @FindBy(id = "input-password")
     private WebElement setPassword;
 
@@ -36,10 +39,14 @@ public class LoginPage {
         login.click();
     }
 
+    public void clickLoginButton() {
+        loginButton.click();
+    }
+
     public void setUserEmail(String email) {
         setEmail.sendKeys(email);
     }
     public void setUserPassword(String password) {
-        setEmail.sendKeys(password);
+        setPassword.sendKeys(password);
     }
 }
