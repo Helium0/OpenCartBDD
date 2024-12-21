@@ -8,21 +8,21 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pageObjects.LoginPage;
 
-public class Loginsteps {
+public class LoginSteps {
 
     public WebDriver driver;
     public LoginPage loginPage;
     private static final By myAccount = By.xpath("//h2[text()='My Account']");
     private static final By alertMessage = By.xpath("//dirv[@class='alert alert-danger alert-dismissible']");
 
-    @Given("User navigates to the Login section")
-    public void user_navigates_to_the_login_section() {
-        driver = new ChromeDriver();
-        driver.get("http://localhost/OpenShop/");
-        loginPage = new LoginPage(driver);
-        loginPage.getMyAccount();
-        loginPage.getLogin();
-    }
+//    @Given("User navigates to the Login section")
+//    public void user_navigates_to_the_login_section() {
+////        driver = new ChromeDriver();
+////        driver.get("http://localhost/OpenShop/");
+//        loginPage = new LoginPage(driver);
+//        loginPage.getMyAccount();
+//        loginPage.getLogin();
+//    }
 
     @When("User enters valid email address {string}")
     public void user_enters_valid_email_address(String userEmail) {
