@@ -7,9 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class RegisterPage {
 
-    WebDriver driver;
+    protected WebDriver driver;
 
-    @FindBy(linkText = "Continue")
+    @FindBy(xpath = "//a[text()='Continue']")
     private WebElement continueButton;
     @FindBy(id = "input-firstname")
     private WebElement inputUserFirstName;
@@ -21,14 +21,21 @@ public class RegisterPage {
     private WebElement inputUserPassword;
     @FindBy(name = "agree")
     private WebElement privacyPolicySlider;
+    @FindBy(xpath = "//button[text()='Continue']")
+    private WebElement continueButton2;
 
     public RegisterPage(WebDriver driver) {
-        PageFactory.initElements(driver,this);
         this.driver = driver;
+        PageFactory.initElements(driver,this);
     }
+
 
     public void clickContinueButton() {
         continueButton.click();
+    }
+
+    public void clickContinueButtonToRegister() {
+        continueButton2.click();
     }
 
     public void setUserFirstName(String name) {
