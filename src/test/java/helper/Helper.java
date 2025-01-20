@@ -1,6 +1,7 @@
 package helper;
 
 import com.github.javafaker.Faker;
+import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -12,7 +13,8 @@ import java.util.Date;
 
 public class Helper {
 
-    WebDriver driver;
+    protected WebDriver driver;
+
 
     public Helper(WebDriver driver){
         PageFactory.initElements(driver,this);
