@@ -1,0 +1,325 @@
+2025-01-20 22:25:49.264 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:25:52.789 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:25:52.862 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:25:52.917 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:03.464 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:04.852 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:26:04.921 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:26:04.974 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:05.102 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:05.104 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:05.233 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:06.951 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:26:07.005 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:26:07.052 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:07.178 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:07.179 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:07.293 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:08.699 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:26:08.785 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:26:08.836 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:08.974 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:08.975 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:09.088 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:10.591 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:26:10.658 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:26:10.702 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:10.902 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:10.903 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:11.014 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:12.473 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:26:12.548 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:26:12.601 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:12.799 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:12.800 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:12.910 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:14.290 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:26:14.357 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:26:14.398 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:14.541 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:14.542 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:14.650 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:16.051 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:26:16.114 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:26:16.176 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:16.412 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:16.413 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:16.539 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:18.089 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:26:18.155 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:26:18.216 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:18.416 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:18.417 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:18.530 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:19.925 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:26:20.067 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:26:20.068 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:20.178 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:21.702 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:26:22.053 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:26:22.281 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:26:22.432 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:26:22.556 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:26:22.608 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:26:22.668 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:26:23.060 [main] INFO  stepsDefinitions.RegisterSteps - *** Account registered succesfully ***
+2025-01-20 22:26:23.061 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:23.167 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:24.662 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:26:24.862 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:26:24.946 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:26:25.019 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:26:25.083 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:26:25.129 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:26:25.295 [main] INFO  stepsDefinitions.RegisterSteps - *** Privacy Policy error message appeared ***
+2025-01-20 22:26:25.296 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:26:25.405 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:26:26.948 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:26:27.121 [main] INFO  stepsDefinitions.RegisterSteps - *** Without enters any data fields ***
+2025-01-20 22:26:27.182 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:26:27.261 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:26:27.375 [main] INFO  stepsDefinitions.RegisterSteps - *** Error Fields Appeared ***
+2025-01-20 22:26:27.376 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:29.572 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:31.335 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:31.401 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:28:31.451 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:41.528 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:42.935 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:28:43.003 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:28:43.055 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:43.191 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:43.193 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:43.321 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:44.721 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:28:44.782 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:28:44.829 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:44.966 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:44.967 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:45.081 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:46.554 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:28:46.624 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:28:46.681 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:46.823 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:46.823 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:46.934 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:48.413 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:48.483 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:28:48.521 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:48.674 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:48.674 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:48.782 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:50.387 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:50.453 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:28:50.499 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:50.686 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:50.687 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:50.800 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:52.216 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:52.295 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:28:52.349 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:52.518 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:52.519 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:52.627 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:54.171 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:54.268 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:28:54.329 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:54.536 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:54.537 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:54.660 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:56.082 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:28:56.154 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:28:56.213 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:56.357 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:56.357 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:56.480 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:58.046 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:28:58.199 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:28:58.200 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:28:58.313 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:28:59.806 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:28:59.981 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:29:00.137 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:29:00.238 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:29:00.351 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:29:00.404 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:29:00.451 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:29:00.744 [main] INFO  stepsDefinitions.RegisterSteps - *** Account registered succesfully ***
+2025-01-20 22:29:00.745 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:29:00.859 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:29:02.308 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:29:02.489 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:29:02.568 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:29:02.619 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:29:02.684 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:29:02.728 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:29:02.864 [main] INFO  stepsDefinitions.RegisterSteps - *** Privacy Policy error message appeared ***
+2025-01-20 22:29:02.864 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:29:02.976 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:29:04.460 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:29:04.621 [main] INFO  stepsDefinitions.RegisterSteps - *** Without enters any data fields ***
+2025-01-20 22:29:04.675 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:29:04.757 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:29:04.865 [main] INFO  stepsDefinitions.RegisterSteps - *** Error Fields Appeared ***
+2025-01-20 22:29:04.866 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:33:54.406 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:33:56.250 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:33:56.322 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:33:56.369 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:06.462 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:07.934 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:34:08.012 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:34:08.069 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:08.217 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:08.220 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:08.360 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:09.925 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:34:10.000 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:34:10.076 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:10.215 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:10.216 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:10.330 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:12.034 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:34:12.120 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:34:12.190 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:12.329 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:12.330 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:12.446 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:14.010 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:34:14.096 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:34:14.140 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:14.338 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:14.339 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:14.464 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:16.017 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:34:16.081 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:34:16.127 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:16.300 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:16.301 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:16.444 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:34:18.022 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:34:18.125 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:34:18.190 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:34:18.343 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:34:18.344 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:34:18.467 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:36:17.351 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:36:19.162 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:36:19.227 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:36:19.282 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:36:29.420 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:36:30.844 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:36:30.928 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:36:31.015 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:36:31.167 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:36:31.170 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:36:31.309 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:36:32.783 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:36:32.853 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:36:32.902 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:36:33.030 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:36:33.031 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:36:33.157 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:37:54.703 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:37:56.525 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:37:56.595 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:37:56.645 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:37:56.842 [main] INFO  stepsDefinitions.LoginSteps - *** To many login attempts ***
+2025-01-20 22:37:56.843 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:37:56.971 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:37:58.360 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:37:58.478 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:37:58.571 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:37:58.727 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:37:58.727 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:37:58.839 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:00.353 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:38:00.408 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:38:00.457 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:00.583 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:00.583 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:00.698 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:25.051 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:26.828 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:26.895 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:38:26.943 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:27.086 [main] INFO  stepsDefinitions.LoginSteps - *** To many login attempts ***
+2025-01-20 22:38:27.088 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:27.219 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:28.765 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:38:28.841 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:38:28.897 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:29.031 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:29.032 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:29.143 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:30.705 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:38:30.802 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:38:30.875 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:31.062 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:31.063 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:31.197 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:32.870 [main] INFO  stepsDefinitions.LoginSteps - *** User enters invalid email address ***
+2025-01-20 22:38:32.938 [main] INFO  stepsDefinitions.LoginSteps - *** Enter valid password ***
+2025-01-20 22:38:33.027 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:33.209 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:33.210 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:33.351 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:35.089 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:35.157 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:38:35.199 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:35.395 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:35.397 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:35.507 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:36.993 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:37.110 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:38:37.168 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:37.316 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:37.317 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:37.423 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:38.987 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:39.073 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:38:39.128 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:39.367 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:39.369 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:39.550 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:41.086 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:41.163 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:38:41.209 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:41.362 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:41.362 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:41.484 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:43.078 [main] INFO  stepsDefinitions.LoginSteps - *** User enters valid email address ***
+2025-01-20 22:38:43.145 [main] INFO  stepsDefinitions.LoginSteps - *** Enter invalid password ***
+2025-01-20 22:38:43.204 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:43.388 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:43.389 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:43.503 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:44.871 [main] INFO  stepsDefinitions.LoginSteps - *** Click Login ***
+2025-01-20 22:38:45.000 [main] INFO  stepsDefinitions.LoginSteps - *** User received proper alert message ***
+2025-01-20 22:38:45.001 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:45.115 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:46.510 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:38:46.665 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:38:46.820 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:38:46.912 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:38:47.013 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:38:47.062 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:38:47.111 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:38:47.413 [main] INFO  stepsDefinitions.RegisterSteps - *** Account registered succesfully ***
+2025-01-20 22:38:47.413 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:47.519 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:49.042 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:38:49.244 [main] INFO  stepsDefinitions.RegisterSteps - *** User enters valid first name ***
+2025-01-20 22:38:49.333 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Last Name ***
+2025-01-20 22:38:49.384 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Email Adress ***
+2025-01-20 22:38:49.445 [main] INFO  stepsDefinitions.RegisterSteps - *** Enters Valid Password ***
+2025-01-20 22:38:49.495 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:38:49.637 [main] INFO  stepsDefinitions.RegisterSteps - *** Privacy Policy error message appeared ***
+2025-01-20 22:38:49.638 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***
+2025-01-20 22:38:49.763 [main] INFO  stepsDefinitions.LoginSteps - *** User navigates to the Login section ***
+2025-01-20 22:38:51.176 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button ***
+2025-01-20 22:38:51.359 [main] INFO  stepsDefinitions.RegisterSteps - *** Without enters any data fields ***
+2025-01-20 22:38:51.424 [main] INFO  stepsDefinitions.RegisterSteps - *** Accepts Privacy Policy ***
+2025-01-20 22:38:51.502 [main] INFO  stepsDefinitions.RegisterSteps - *** Click Continue Button For Register ***
+2025-01-20 22:38:51.605 [main] INFO  stepsDefinitions.RegisterSteps - *** Error Fields Appeared ***
+2025-01-20 22:38:51.606 [main] INFO  stepsDefinitions.LoginSteps - *** Close browser ***

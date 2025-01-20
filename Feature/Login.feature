@@ -12,12 +12,14 @@ Feature: OpenCart User Login
     Then User should be successfully logged in
     And Close browser
 
+
   Scenario Outline: Login with invalid email address
     When User enters invalid email address "<email>"
     And Enter valid password "tojesttest666"
     And Click Login
     Then User should receive alert message
     And Close browser
+
     Examples:
       | email  |
       |testowanie99@gmail.com|
@@ -30,6 +32,7 @@ Feature: OpenCart User Login
     And Click Login
     Then User should receive alert message
     And Close browser
+
     Examples:
       | password |
       | 1 |

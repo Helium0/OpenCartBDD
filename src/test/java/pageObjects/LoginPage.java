@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-     WebDriver driver;
+    protected WebDriver driver;
 
 
     @FindBy(xpath = "//span[text()='My Account']")
@@ -26,10 +26,12 @@ public class LoginPage {
     private WebElement setEmail;
 
 
+
     public LoginPage(WebDriver driver) {
-        PageFactory.initElements(driver,this);
         this.driver = driver;
+        PageFactory.initElements(driver,this);
     }
+
 
     public void getMyAccount() {
         myAccount.click();
